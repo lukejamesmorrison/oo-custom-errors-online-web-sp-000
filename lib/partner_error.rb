@@ -1,3 +1,0 @@
-class PartnerError < StandardError
-
-end
